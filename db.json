@@ -1,107 +1,99 @@
 {
     "results": [{
+            "id": 1,
+            "vehicle": "toyota",
+            "fuel": "liquid",
             "date": "2021-03-26",
-            "records": [{
-                    "id": 1,
-                    "vehicle": "toyota",
-                    "fuel": "liquid",
-                    "date": "2021-03-26",
-                    "volume": 10,
-                    "odometer": 13.6
-                },
-                {
-                    "id": 2,
-                    "vehicle": "bmw",
-                    "fuel": "gaseous",
-                    "date": "2021-03-26",
-                    "volume": 16,
-                    "odometer": 12.2
-                },
-                {
-                    "id": 3,
-                    "vehicle": "kia",
-                    "fuel": "liquid",
-                    "date": "2021-03-26",
-                    "volume": 18,
-                    "odometer": 19.1
-                },
-                {
-                    "id": 4,
-                    "vehicle": "chevrolet",
-                    "fuel": "liquid",
-                    "date": "2021-03-26",
-                    "volume": 11,
-                    "odometer": 17.3
-                },
-                {
-                    "id": 5,
-                    "vehicle": "mercedes",
-                    "fuel": "gaseous",
-                    "date": "2021-03-26",
-                    "volume": 12,
-                    "odometer": 12.5
-                },
-                {
-                    "id": 6,
-                    "vehicle": "audi",
-                    "fuel": "liquid",
-                    "date": "2021-03-26",
-                    "volume": 15,
-                    "odometer": 11.5
-                }
-            ]
+            "volume": 10,
+            "odometer": 13.6
         },
         {
+            "id": 2,
+            "vehicle": "bmw",
+            "fuel": "gaseous",
+            "date": "2021-03-26",
+            "volume": 16,
+            "odometer": 12.2
+        },
+        {
+            "id": 3,
+            "vehicle": "kia",
+            "fuel": "liquid",
+            "date": "2021-03-26",
+            "volume": 18,
+            "odometer": 19.1
+        },
+        {
+            "id": 4,
+            "vehicle": "chevrolet",
+            "fuel": "liquid",
+            "date": "2021-03-26",
+            "volume": 11,
+            "odometer": 17.3
+        },
+        {
+            "id": 5,
+            "vehicle": "mercedes",
+            "fuel": "gaseous",
+            "date": "2021-03-26",
+            "volume": 12,
+            "odometer": 12.5
+        },
+        {
+            "id": 6,
+            "vehicle": "audi",
+            "fuel": "liquid",
+            "date": "2021-03-26",
+            "volume": 15,
+            "odometer": 11.5
+        },
+        {
+            "id": 7,
+            "vehicle": "honda",
+            "fuel": "liquid",
             "date": "2021-03-25",
-            "records": [{
-                    "id": 7,
-                    "vehicle": "toyota",
-                    "fuel": "liquid",
-                    "date": "2021-03-25",
-                    "volume": 10,
-                    "odometer": 13.6
-                },
-                {
-                    "id": 8,
-                    "vehicle": "bmw",
-                    "fuel": "gaseous",
-                    "date": "2021-03-25",
-                    "volume": 16,
-                    "odometer": 12.2
-                },
-                {
-                    "id": 9,
-                    "vehicle": "kia",
-                    "fuel": "liquid",
-                    "date": "2021-03-25",
-                    "volume": 18,
-                    "odometer": 19.1
-                },
-                {
-                    "id": 10,
-                    "vehicle": "chevrolet",
-                    "fuel": "liquid",
-                    "date": "2021-03-25",
-                    "volume": 11,
-                    "odometer": 17.3
-                },
-                {
-                    "id": 11,
-                    "vehicle": "mercedes",
-                    "fuel": "gaseous",
-                    "date": "2021-03-25",
-                    "volume": 12,
-                    "odometer": 12.5
-                },
-                {
-                    "id": 12,
-                    "vehicle": "audi",
-                    "fuel": "liquid",
-                    "date": "2021-03-25",
-                    "volume": 15,
-                    "odometer": 11.5
-                }
-            ]
+            "volume": 10,
+            "odometer": 13.6
+        },
+        {
+            "id": 8,
+            "vehicle": "mitsubishi",
+            "fuel": "gaseous",
+            "date": "2021-03-25",
+            "volume": 16,
+            "odometer": 12.2
+        },
+        {
+            "id": 9,
+            "vehicle": "bosch",
+            "fuel": "liquid",
+            "date": "2021-03-25",
+            "volume": 18,
+            "odometer": 19.1
+        },
+        {
+            "id": 10,
+            "vehicle": "bentley",
+            "fuel": "liquid",
+            "date": "2021-03-25",
+            "volume": 11,
+            "odometer": 17.3
+        },
+        {
+            "id": 11,
+            "vehicle": "skoda",
+            "fuel": "gaseous",
+            "date": "2021-03-25",
+            "volume": 12,
+            "odometer": 12.5
+        },
+        {
+            "id": 12,
+            "vehicle": "mazda",
+            "fuel": "liquid",
+            "date": "2021-03-25",
+            "volume": 15,
+            "odometer": 11.5
         }
     ]
 }
