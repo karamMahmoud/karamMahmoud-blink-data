@@ -5,6 +5,7 @@
             "fuel": "liquid",
             "date": "2021-03-26",
             "volume": 10,
+            "status": "Active",
             "odometer": 13.6
         },
         {
@@ -13,6 +14,7 @@
             "fuel": "gaseous",
             "date": "2021-03-26",
             "volume": 16,
+            "status": "Out of service",
             "odometer": 12.2
         },
         {
@@ -21,6 +23,7 @@
             "fuel": "liquid",
             "date": "2021-03-26",
             "volume": 18,
+            "status": "Active",
             "odometer": 19.1
         },
         {
@@ -29,6 +32,7 @@
             "fuel": "liquid",
             "date": "2021-03-26",
             "volume": 11,
+            "status": "Out of service",
             "odometer": 17.3
         },
         {
@@ -37,6 +41,7 @@
             "fuel": "gaseous",
             "date": "2021-03-26",
             "volume": 12,
+            "status": "Active",
             "odometer": 12.5
         },
         {
@@ -45,6 +50,7 @@
             "fuel": "liquid",
             "date": "2021-03-26",
             "volume": 15,
+            "status": "In shop",
             "odometer": 11.5
         },
         {
@@ -53,6 +59,7 @@
             "fuel": "liquid",
             "date": "2021-03-25",
             "volume": 10,
+            "status": "Active",
             "odometer": 13.6
         },
         {
@@ -61,6 +68,7 @@
             "fuel": "gaseous",
             "date": "2021-03-25",
             "volume": 16,
+            "status": "In shop",
             "odometer": 12.2
         },
         {
@@ -69,6 +77,7 @@
             "fuel": "liquid",
             "date": "2021-03-25",
             "volume": 18,
+            "status": "Active",
             "odometer": 19.1
         },
         {
@@ -77,6 +86,7 @@
             "fuel": "liquid",
             "date": "2021-03-25",
             "volume": 11,
+            "status": "Active",
             "odometer": 17.3
         },
         {
@@ -85,6 +95,7 @@
             "fuel": "gaseous",
             "date": "2021-03-25",
             "volume": 12,
+            "status": "Active",
             "odometer": 12.5
         },
         {
@@ -93,6 +104,7 @@
             "fuel": "liquid",
             "date": "2021-03-25",
             "volume": 15,
+            "status": "In shop",
             "odometer": 11.5
         }
     ]
